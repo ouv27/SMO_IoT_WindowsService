@@ -1,0 +1,1 @@
+C:\Users\ouv27\Documents\GitHub\SMO_IoT_WindowsService\SMO_IoT_WindowsService\bin\Debug\SMO_IoT_WindowsService.exe.config
